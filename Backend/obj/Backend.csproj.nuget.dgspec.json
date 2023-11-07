@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acera\\Desktop\\Backend\\Backend\\Backend.csproj": {}
+    "C:\\Users\\acera\\Desktop\\DSCC.CW1.11920\\dscc_cw_00011920_backend\\Backend\\Backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acera\\Desktop\\Backend\\Backend\\Backend.csproj": {
+    "C:\\Users\\acera\\Desktop\\DSCC.CW1.11920\\dscc_cw_00011920_backend\\Backend\\Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acera\\Desktop\\Backend\\Backend\\Backend.csproj",
+        "projectUniqueName": "C:\\Users\\acera\\Desktop\\DSCC.CW1.11920\\dscc_cw_00011920_backend\\Backend\\Backend.csproj",
         "projectName": "Backend",
-        "projectPath": "C:\\Users\\acera\\Desktop\\Backend\\Backend\\Backend.csproj",
+        "projectPath": "C:\\Users\\acera\\Desktop\\DSCC.CW1.11920\\dscc_cw_00011920_backend\\Backend\\Backend.csproj",
         "packagesPath": "C:\\Users\\acera\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acera\\Desktop\\Backend\\Backend\\obj\\",
+        "outputPath": "C:\\Users\\acera\\Desktop\\DSCC.CW1.11920\\dscc_cw_00011920_backend\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\acera\\AppData\\Roaming\\NuGet\\NuGet.Config",
